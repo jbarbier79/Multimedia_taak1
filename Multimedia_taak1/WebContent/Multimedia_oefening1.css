@@ -1,0 +1,141 @@
+@CHARSET "ISO-8859-1";
+
+
+*{
+	background-color: #3D3D3D;
+	
+	
+}
+
+
+body{
+	background-color:#262C38;
+	
+	height: 720px;
+	width: 1400px;
+	
+}
+table{
+	width: 1100px;
+	height: 680px;
+	background-color: white;
+	border-left: 8px;
+	border-right: 8px;
+	border-bottom: 17px;
+	border-style: solid;
+	border-color: white;
+	border-collapse: collapse;
+	
+	
+	
+
+}
+
+
+#white_line{
+	
+	background-color: white;
+}
+
+#first >td{
+	background-color: white;
+}
+
+#logo{
+	background-color: #B30021;
+	font-size: 24px;
+}
+
+#menu{
+	background-color: #DEDEDE;
+	text-align: right;
+	
+	
+}
+
+ul{
+	background-color: #DEDEDE;
+}
+
+li{
+	background-color: #DEDEDE;
+	display: inline;
+	padding-left: 15px;
+	padding-right: 30px;
+}
+
+#l1cell1{
+	background-color: #B30021;
+}
+
+td#white{
+	background-color: white;
+}
+
+#l1cell2{
+	background-color: #DEDEDE;
+	text-align: left;
+	
+}
+#l1cell3{
+	background-color: #DEDEDE;
+}
+
+
+#l3cell1{
+	background-color: #B30021;
+}
+
+#l3cell2{
+	background-color: #B30021;
+}
+#l3cell3{
+	background-color: #B30021;
+}
+
+
+
+#l4cell1{
+	background-color: #DEDEDE;
+	
+}
+
+#l4cell2{
+	background-color: #DEDEDE;
+	
+}
+
+
+#l4cell3{
+	background-color: #DEDEDE;
+
+}
+
+#line5>td{
+	background-color: #001C4A;
+}
+
+#tijdgenoten{
+	width: 240px;
+	height: 547px;
+	border-collapse: collapse;
+	border-style: none;
+	
+	
+}
+
+#htijd{
+	background-color: #DEDEDE;
+	
+}
+h1{
+	background-color: #DEDEDE;
+}
+
+#tijd{
+	background-color: #B30021;
+	border-bottom-width:30px;
+	border-bottom-style: solid;
+	border-bottom-color: #DEDEDE;
+	height: 110px;
+}
